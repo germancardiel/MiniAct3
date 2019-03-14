@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LocationAct3</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="traffic">Traffic</string>
+    <string name="normal">normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">satellite</string>
+    <string name="terrain">terrain</string>
+    <string name="none_map">none_map</string>
+    <string name="map_not_ready">Not ready</string>
+    <string name="layers_demo_label">Layers Map</string>
+    <string name="location_permission_denied">permission denied</string>
+    <string name="permission_required_toast">permision requiered</string>
+    <string name="permission_rationale_location">permision rationale</string>
+    <string name="buildings">buildings</string>
+    <string name="indoor">indoor</string>
+    <string name="my_location">My location</string>
+    <string-array name="layers_array">
+    <item>@string/normal</item>
+    <item>@string/hybrid</item>
+    <item>@string/satellite</item>
+    <item>@string/terrain</item>
+    <item>@string/none_map</item>
+    </string-array>
+</resources>
